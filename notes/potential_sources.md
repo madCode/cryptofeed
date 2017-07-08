@@ -12,3 +12,4 @@
 10. youtube series/videos?
 11. cryptobuzz.io
 12. https://newsapi.org/
+13. https://letstalkbitcoin.com/rss/feed/blog
