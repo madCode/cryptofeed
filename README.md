@@ -9,6 +9,7 @@ Get a collection of the things that are relevant to the long-term foundation of 
 3. Mainstream adoption of blockchain technology
 4. Explanations and tutorials
 5. Medium to long-term financial analysis
+
 And ignore the things that aren't:
 1. Moon memes
 2. Lambo memes
