@@ -2,6 +2,7 @@
 1. Get an rss feed of 1 crypto subreddit
     * https://www.reddit.com/r/CryptoCurrency/search.rss?q=flair%3ANews&restrict_sr=on&sort=new&t=all
 2. Get an amalgamation of all the articles.
+    * https://www.raymondcamden.com/2015/12/08/parsing-rss-feeds-in-javascript-options
 3. Classify which articles I want and which I don't want.
 4. Can I determine a subject and a sentiment for each article?
 5. Can I make a classifier which will, given an article, detect whether or not it's interesting to me?
