@@ -8,3 +8,5 @@
     * https://www.quora.com/What-are-the-best-machine-learning-techniques-for-text-classification
     * http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
     * http://www.python-course.eu/text_classification_python.php
+    * http://nmis.isti.cnr.it/sebastiani/Publications/ASAI99.pdf
+    
