@@ -1,14 +1,14 @@
 # Goals
 1. To aggregate all interesting news about the crypto space from a engineering point of view:
     * New crypto projects and platforms
-        * e.g. There's this new project called Sia that's meant to do distributed file storage!
+        * e.g. "There's this new project called Sia that's meant to do distributed file storage!"
     * Technology updates on old crypto projects and platforms
-        * e.g. Ethereum now supports Lightening Networks!
+        * e.g. "Ethereum now supports Lightening Networks!"
     * Adoption of existing projects/platforms
-        * e.g. Imogen Heap released a track via the bitcoin blockchain!
+        * e.g. "Imogen Heap released a track via the bitcoin blockchain!"
     * Explanations and tutorials
-        * e.g. Here's how to make a online payment system that supports Monero!
-        * e.g. Here's an explanation of SegWit!
+        * e.g. "Here's how to make a online payment system that supports Monero!"
+        * e.g. "Here's an explanation of SegWit!"
 2. To leave out the useless stuff:
     * Moon memes
     * Lambo memes
