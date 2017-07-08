@@ -1,4 +1,4 @@
-## Goals
+# Goals
 1. To aggregate all interesting news about the crypto space from a engineering point of view:
     * New crypto projects and platforms
         * e.g. There's this new project called Sia that's meant to do distributed file storage!
@@ -22,17 +22,3 @@
         * If you want technical analysis, you don't want it from a slow-ass RSS feed.
         * Sometimes crypto prices are useful? And trade chatter is useful? Like the idea that the Aug 1 2017 deadline for Bitcoin might have drastic effects on all cryptos in the short term.
         * I will use my best judgement.
-## Potential Sources
-1. https://www.reddit.com/wiki/rss
-2. Websites and twitters of well-known authorities
-    * Vitalik Buterin of Ethereum
-3. The Verge
-4. Mises.org
-5. blog.bitmain.com
-6. bitcoinmagaznie.com
-7. The Economist
-8. hitc.com
-9. http://cryptscout.com/cryptocurrency-news-rss.php
-10. youtube series/videos?
-11. cryptobuzz.io
-12. https://newsapi.org/
