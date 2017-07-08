@@ -7,3 +7,4 @@
 5. Can I make a classifier which will, given an article, detect whether or not it's interesting to me?
     * https://www.quora.com/What-are-the-best-machine-learning-techniques-for-text-classification
     * http://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+    * http://www.python-course.eu/text_classification_python.php
