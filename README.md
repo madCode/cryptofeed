@@ -1,6 +1,6 @@
 # cryptofeed
 ## What it is:
-An aggregator of news around the blockchain/crypto currency space.
+An aggregator of news around the blockchain/crypto currency space. Currently in the data-collection stages. For a peek at my more detailed thoughts, see the "notes" folder.
 
 ## Goals:
 Get a collection of the things that are relevant to the long-term foundation of the space:
