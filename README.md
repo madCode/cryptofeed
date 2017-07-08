@@ -17,5 +17,5 @@ And ignore the things that aren't:
 4. Some random old man on a hill somewhere has decided to announce that he thinks X currency will be at Y number and the article doesn't say how he got to this number or what his accuracy has been in the past so frankly I'm not even sure why someone was paid to write this article.
 5. Technical analysis of how this chart from 2 hours ago looks like the kind of ladle you'd give to Goodwill rather than use to serve soup.
 
-##Sections Coming Eventually
+## Sections Coming Eventually
 1. How to get it set up on your own computer
